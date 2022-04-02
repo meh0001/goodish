@@ -19,5 +19,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meh0001/goodish.git"
+  },
+  "bugs": {
+    "url": "https://github.com/meh0001/goodish/issues"
+  },
+  "homepage": "https://github.com/meh0001/goodish#readme",
   "description": ""
 }
