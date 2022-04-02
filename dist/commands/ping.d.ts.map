@@ -1,1 +1,1 @@
-{"version":3,"file":"ping.d.ts","sourceRoot":"","sources":["../../src/commands/ping.ts"],"names":[],"mappings":""}
+{"version":3,"file":"ping.d.ts","sourceRoot":"","sources":["../../src/commands/ping.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,MAAM,qBAAqB,CAAC;AAC9C,OAAO,KAAK,EAAE,OAAO,EAAE,MAAM,YAAY,CAAC;AAE1C,qBAAa,WAAY,SAAQ,OAAO;gBACnB,OAAO,EAAE,OAAO,CAAC,OAAO,EAAE,OAAO,EAAE,OAAO,CAAC,OAAO;IASxD,UAAU,CAAC,OAAO,EAAE,OAAO;CASzC"}
