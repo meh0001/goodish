@@ -1,6 +1,6 @@
 import { SapphireClient } from '@sapphire/framework';
 import dotenv from 'dotenv';
-dotenv.config()
+dotenv.config();
 
 const client = new SapphireClient({
 	defaultPrefix: '!',
